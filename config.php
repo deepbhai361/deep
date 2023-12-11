@@ -4,9 +4,9 @@ This file contains database config.phpuration assuming you are running mysql usi
 */
 
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 's2mall_raju');
-define('DB_PASSWORD', 'Raju@921901000');
-define('DB_NAME', 's2mall_raju');
+define('DB_USERNAME', 'Cashwin-35303135d381');
+define('DB_PASSWORD', 'Fkt7wyav');
+define('DB_NAME', 'Cashwin-35303135d381');
 
 // Try connecting to the Database
 $conn = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);

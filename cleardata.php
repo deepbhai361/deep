@@ -2,7 +2,7 @@
 // Define database credentials
 $servername = "localhost";
 $username = "fairwin";
-$password = "Raju@921901000";
+$password = "Fkt7wyav";
 $dbname = "fairwin";
 
 // Create PDO object and connect to database

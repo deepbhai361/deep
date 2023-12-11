@@ -2,7 +2,7 @@
 // Set up the database connection
 $servername = "localhost";
 $username = "fairwin";
-$password = "Raju@921901000";
+$password = "Fkt7wyav";
 $dbname = "fairwin";
 
 // Create the database connection
