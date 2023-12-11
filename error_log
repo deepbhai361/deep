@@ -1,0 +1,167 @@
+[18-May-2023 11:30:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[18-May-2023 11:30:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[18-May-2023 11:30:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[18-May-2023 11:30:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[18-May-2023 11:30:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[18-May-2023 11:33:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[18-May-2023 11:33:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[18-May-2023 11:33:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[18-May-2023 11:33:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[18-May-2023 11:33:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[18-May-2023 11:33:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[18-May-2023 11:33:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[18-May-2023 11:33:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[18-May-2023 11:38:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[18-May-2023 11:38:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[18-May-2023 11:38:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[18-May-2023 11:38:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[18-May-2023 11:38:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[18-May-2023 11:39:50 UTC] PHP Warning:  Use of undefined constant usercode - assumed 'usercode' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/report.php on line 39
+[18-May-2023 11:39:50 UTC] PHP Warning:  Use of undefined constant refcode - assumed 'refcode' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/report.php on line 40
+[18-May-2023 11:39:50 UTC] PHP Warning:  Use of undefined constant balance - assumed 'balance' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/report.php on line 41
+[18-May-2023 11:39:50 UTC] PHP Notice:  Undefined variable: data in /home/yn69h4fjygdz/public_html/report.php on line 361
+[18-May-2023 11:39:50 UTC] PHP Notice:  Undefined variable: data5 in /home/yn69h4fjygdz/public_html/report.php on line 369
+[18-May-2023 11:39:50 UTC] PHP Notice:  Undefined variable: dataRow in /home/yn69h4fjygdz/public_html/report.php on line 426
+[18-May-2023 11:39:50 UTC] PHP Notice:  Undefined variable: dataRow8 in /home/yn69h4fjygdz/public_html/report.php on line 461
+[18-May-2023 11:40:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[18-May-2023 11:40:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[18-May-2023 11:40:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[18-May-2023 11:40:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[18-May-2023 11:41:48 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/upi.php on line 47
+[18-May-2023 11:43:53 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/upi.php on line 47
+[18-May-2023 11:50:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/accept.php on line 37
+[19-May-2023 15:47:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[19-May-2023 15:47:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 15:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 15:47:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 15:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:02:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[19-May-2023 17:02:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 17:02:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 17:02:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 17:02:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:03:03 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/upi.php on line 47
+[19-May-2023 17:03:28 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/notice.php on line 47
+[19-May-2023 17:03:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 17:03:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 17:03:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 17:03:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:03:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 17:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 17:03:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 17:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:03:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 17:03:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 17:03:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 17:03:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:05:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 17:05:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 17:05:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 17:05:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:05:56 UTC] PHP Warning:  Use of undefined constant usercode - assumed 'usercode' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/report.php on line 39
+[19-May-2023 17:05:56 UTC] PHP Warning:  Use of undefined constant refcode - assumed 'refcode' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/report.php on line 40
+[19-May-2023 17:05:56 UTC] PHP Warning:  Use of undefined constant balance - assumed 'balance' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/report.php on line 41
+[19-May-2023 17:05:56 UTC] PHP Notice:  Undefined variable: data in /home/yn69h4fjygdz/public_html/report.php on line 361
+[19-May-2023 17:05:56 UTC] PHP Notice:  Undefined variable: data5 in /home/yn69h4fjygdz/public_html/report.php on line 369
+[19-May-2023 17:05:56 UTC] PHP Notice:  Undefined variable: dataRow in /home/yn69h4fjygdz/public_html/report.php on line 426
+[19-May-2023 17:05:56 UTC] PHP Notice:  Undefined variable: dataRow8 in /home/yn69h4fjygdz/public_html/report.php on line 461
+[19-May-2023 17:21:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[19-May-2023 17:21:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 17:21:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 17:21:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 17:21:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:22:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 17:22:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 17:22:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 17:22:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[19-May-2023 17:35:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:35:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:36:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:36:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:36:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:36:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:36:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:36:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:36:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:36:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:37:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:37:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:37:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:37:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:37:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:37:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:37:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:37:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:37:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:37:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:37:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:37:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:38:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:38:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:38:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:38:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:38:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:38:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:38:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:39:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:39:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:39:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:39:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:40:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:40:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:40:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:40:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:41:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:41:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 17:41:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[19-May-2023 17:41:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[19-May-2023 19:11:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[19-May-2023 19:11:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[19-May-2023 19:11:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[19-May-2023 19:11:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[19-May-2023 19:11:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 01:12:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[20-May-2023 01:12:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 01:12:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 01:12:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 01:12:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 01:12:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[20-May-2023 01:12:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[20-May-2023 01:13:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[20-May-2023 01:13:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[20-May-2023 01:13:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 01:13:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 01:13:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 01:13:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 01:13:57 UTC] PHP Notice:  Undefined variable: dataRow in /home/yn69h4fjygdz/public_html/inviterec.php on line 277
+[20-May-2023 01:14:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 01:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 01:14:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 01:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 01:14:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[20-May-2023 01:14:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[20-May-2023 01:14:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 55
+[20-May-2023 01:14:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/wheeladpre.php on line 56
+[20-May-2023 04:06:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/yn69h4fjygdz/public_html/adminverify.php on line 50
+[20-May-2023 04:06:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 04:06:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 04:06:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 04:06:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 04:08:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 04:08:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 04:08:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 04:08:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 04:08:33 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/yn69h4fjygdz/public_html/upi.php on line 47
+[20-May-2023 04:08:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 04:08:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 04:08:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 04:08:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 04:11:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 04:11:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 04:11:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 04:11:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
+[20-May-2023 04:11:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 42
+[20-May-2023 04:11:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 43
+[20-May-2023 04:11:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yn69h4fjygdz/public_html/admin.php on line 56
+[20-May-2023 04:11:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yn69h4fjygdz/public_html/admin.php on line 58
